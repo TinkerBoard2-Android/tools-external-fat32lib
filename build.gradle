@@ -1,6 +1,6 @@
 apply plugin: 'java'
 apply plugin: 'maven'
-apply plugin: 'distrib'
+apply plugin: 'sdk-java-lib'
 
 group = "com.android.tools.build"
 archivesBaseName = 'fat32lib'
